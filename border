@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="j" href="icons8-sport-48.png">
+    <link rel="stylesheet" href="style.css">
+    <title>FOOTBALL</title>
+</head>
+
+
+<body>
+ <!-- <h1 style="color: hsl(281, 95%, 50%);"></h1>    -->
+
+<h1>Lorem ipsum dolor sit amet consectetur.</h1>
+<hr>
+<h2>Lorem ipsum dolor sit amet consectetur.</h2>
+<p id="odd">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti pariatur asperiores architecto repellendus, voluptatibus sapiente dolorum, rem, doloribus neque et sequi. Nulla rerum officiis esse hic minima, dolorem dolores vitae amet voluptatem. Hic optio explicabo tempore quasi quae nam rem!</p>
+<p id="even">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laudantium ab incidunt vitae recusandae ducimus provident at praesentium libero repudiandae, reiciendis dolores explicabo voluptatem nostrum saepe similique eius id unde tempore!</p>
+<p id="odd">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Amet quasi quod, deserunt qui ipsum provident impedit alias labore quaerat saepe!</p>
+<br><br>
+<br><br>
+<p id="even">Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet obcaecati doloribus minus voluptas reiciendis totam dolorum reprehenderit temporibus, recusandae vero!</p>
+
+</body> 
+
+
+
+</html>
+
+
+
+
+body{
+    background-color: black;
+    color:hsl(180, 100%, 50%);
+}
+h1{
+    color:hsl(281, 95%, 50%);
+}
+
+h1{
+    border: 4px solid white;
+    border-radius: 30px;
+}
+p{
+    border: 5px solid rgb(255, 153, 0);
+    border-radius: 60px;
+    border-bottom: 5px solid red;
+    border-top: 6px solid green;
+}
