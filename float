@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="j" href="icons8-sport-48.png">
+    <link rel="stylesheet" href="style.css">
+    <title>FOOTBALL</title>
+</head>
+
+
+<body>
+<img   src="./img/wallpaperflare.com_wallpaper (1).jpg" alt="cr7">
+<p>Lorem ipsum dolor sit amet consectetur Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias quasi vero porro voluptatibus voluptate nobis obcaecati natus error nisi enim voluptas ullam dolore aut recusandae repellat quis, temporibus quae cumque? adipisicing elit. Ipsam quae autem ea culpa doloremque! Similique id quis omnis quidem modi sequi, itaque ipsum, dolorum delectus tempora, recusandae libero placeat magnam.</p>
+<p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae odit, error eius non commodi deleniti illo voluptates numquam saepe repellat atque quaerat sed. Veritatis nisi corrupti corporis cumque non consequuntur!</p>
+<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor neque dolores pariatur consequuntur facilis cupiditate sit reprehenderit enim, doloribus officia ut velit optio beatae possimus aperiam hic quidem corporis Lorem ipsum dolor sit amet consectetur, adipisicing elit. Distinctio ipsam odio laborum sunt nulla labore nostrum obcaecati Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio repellat, non quibusdam aliquam quaerat asperiores atque cumque ex quam beatae exercitationem rerum, reiciendis mollitia dicta corporis magnam, perferendis vitae voluptas. est totam iste nihil assumenda nemo provident ex veritatis veniam, fuga, aspernatur quia. saepe!</p>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veritatis rem aliquam, reprehenderit nam, ullam error vero voluptatibus praesentium amet voluptatum facere quae quia! Unde doloremque nobis quis labore sed molestias.</p>
+<img src="./img/wallpaperflare.com_wallpaper.jpg" alt="">
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsum sit quis perspiciatis, ut consequuntur libero itaque? Iure velit vel beatae corrupti exercitationem incidunt. Similique itaque cupiditate non ipsum. Aut, sit?</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet culpa molestias officia ab sint cumque quasi omnis saepe! Sapiente, accusamus voluptas hic aperiam exercitationem error assumenda! Ea ipsam molestiae perferendis.</p>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis vitae, officia repellendus necessitatibus ad praesentium quasi perspiciatis reprehenderit unde eum voluptatum vel nulla neque odit itaque explicabo debitis rerum corrupti?</p>
+<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptas sit alias atque vitae quod culpa sapiente natus! Praesentium, nemo laudantium, eius veritatis impedit itaque magni placeat vero cum alias dolorem.</p>
+</html>
+
+
+
+img{
+    width: 600px;
+    height:400px;
+    float: left;
+    margin-right: 30px;
+    
+    
+}
+body{
+    margin: 0;
+}
