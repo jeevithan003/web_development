@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="j" href="icons8-sport-48.png">
+    <link rel="stylesheet" href="style.css">
+    <title>FOOTBALL</title>
+</head>
+
+
+
+<body>
+<header>
+<h1>jeevithan</h1>
+</header>
+
+<nav>
+  <h5>this is nav bar</h5>
+</nav>
+<main>
+  <aside>
+    <h3>Lorem ipsum dolor sit.</h3>
+    <p>Lorem ipsum dolor sit
+       amet consectetur adipisicing elit. Accusamus, sit architecto? Facere aspernatur, quis aperiam eaque nam repellat. Nostrum ipsum eius aspernatur consequatur blanditiis nulla facilis labore non quibusdam iusto.</p>
+  </aside>
+  <section><h4>
+    Lorem ipsum dolor sit amet 
+    consectetur adipisicing elit. Assumenda omnis qui esse saepe impedit! Molestiae, odit aliquid error fugit numquam, expedita aspernatur temporibus iure reiciendis quos esse maxime ipsa suscipit?
+  </h4>
+<p>Lorem ipsum dolor sit, amet 
+  consectetur adipisicing elit. Fuga ea molestias minus quidem voluptatum, dolore, porro perferendis blanditiis tempora cum vero esse quos eius molestiae, adipisci fugiat neque quibusdam ullam.</p></section>
+<article>
+
+  <h4>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda omnis qui esse saepe impedit! Molestiae, odit aliquid error fugit numquam, expedita aspernatur temporibus iure reiciendis quos esse maxime ipsa suscipit?
+  </h4>
+<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fuga ea molestias minus quidem voluptatum, dolore, porro perferendis blanditiis tempora cum vero esse quos eius molestiae, adipisci fugiat neque quibusdam ullam.</p></section>
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro tenetur, amet exercitationem magnam a eaque architecto! Maxime minima veritatis eius, libero eum dolores totam aspernatur aliquam, deserunt commodi ex doloremque.</p>  
+</article>
+</main>
+<footer>
+  &copy;
+  <address>
+    John Doe
+4567 Maple Avenue
+Apartment 3B
+Brooklyn, NY 11201
+  </address>
+</footer>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    background-color: hsl(180, 5%, 37%);
+}
+nav{
+    background-color: hsl(34, 32%, 75%);
+    height: 30px;
+    text-align: center;
+    
+}
+aside{
+    width: 33%;
+    background-color: hsl(240, 51%, 69%);
+    float: left;
+}
+section{
+    width: 33%;
+    float: left;
+    padding-left: 10px;
+    background-color: hsl(60, 61%, 75%);
+
+}
+article{
+    width: 33%;
+    float:left ;
+    overflow: scroll    ;
+    background-color: hsl(323, 64%, 61%);
+}
+
+footer{
+    background-color: hsl(182, 85%, 72%);
+    clear: both;
+    
+}
