@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="j" href="icons8-sport-48.png">
+    <link rel="stylesheet" href="style.css">
+    <title>FOOTBALL</title>
+</head>
+
+
+
+<body>
+
+<h1>JEEVITHAN</h1>
+<nav class="navigation">
+  <ul>
+    <li>HOME</li>
+    <li>ABOUT</li>
+    <li>LOACTION</li>
+    <li>CONTACT</li>
+  </ul>
+</nav>
+<h3>Lorem, ipsum.</h3>
+<p>lorem Lorem ipsum dolor sit.
+   Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tenetur laborum qui excepturi iusto, dolor officiis beatae pariatur. Sapiente maiores sed cumque veritatis minus similique culpa atque soluta commodi, et quas.</p>
+
+</body>
+</html>
+
+
+
+h1{
+    text-align: center;
+}
+li{
+    list-style-type:none;
+    background-color: beige;
+    display: inline;
+    padding: 20px 10px;
+    border: 2px solid black;
+    border-radius: 3px 20px;
+    
+   
+
+}
+li:hover{
+    background-color: rgb(230, 185, 8);
+
+}
+nav{
+    margin-left: 500px;
+    margin-top: 50px;
+
+}
